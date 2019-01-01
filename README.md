@@ -17,8 +17,10 @@ Now let's consider another scenario, sometimes the data can't be directly presen
 
 *Analogy:*
   Let's say you are in Rick's world and someone says to you "Wubba lubba dub dub", you won't be able to understand this but if you are told the meaning of each word of what he spoke, you would be able to unite them and come to a conclusion of what this person is talking about.
+  
 ![](https://juststickers.in/wp-content/uploads/2018/02/wubba-lubba-dub-dub.png)
 
 And hence most of the data scientists and ML engineers say that 80-90% of the time goes in preparing the data
+
 
 Stay Tuned!! Tutorial Number 1 is on the way :soon:

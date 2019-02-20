@@ -89,6 +89,6 @@ Now, any image is actually a matrix of the colour intensities (RGB or Greyscale)
 
 :tada: And this is the end of this tutorial.
 
-A tutorial by @[krototype](github.com/krototype). 
+A tutorial by @[krototype](https://github.com/krototype). 
 
 Open for suggestions. :smile:

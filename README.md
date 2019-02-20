@@ -1,8 +1,6 @@
 # :ledger: Data-Processing-Tutorials
 Blog tutorial for the different data processing techniques for different types of data
 
-:fast_forward: With the commencement of 2019, I wanted to do something good for myself as well as the community and hence this repo.
-
 Here I will be posting the tutorials related to "How to process data?(rather different kinds of data)" such that your data is better structured to apply Machine Learning model to it.
 
 ## :triangular_flag_on_post: Importance of Data Processing:
@@ -18,9 +16,11 @@ Now let's consider another scenario, sometimes the data can't be directly presen
 *Analogy:*
   Let's say you are in Rick's world and someone says to you "Wubba lubba dub dub", you won't be able to understand this but if you are told the meaning of each word of what he spoke, you would be able to unite them and come to a conclusion of what this person is talking about.
   
-![](https://juststickers.in/wp-content/uploads/2018/02/wubba-lubba-dub-dub.png)
+![Meme](https://juststickers.in/wp-content/uploads/2018/02/wubba-lubba-dub-dub.png)
 
 And hence most of the data scientists and ML engineers say that 80-90% of the time goes in preparing the data
 
+### Tutorials:
+* [Introduction](https://github.com/krototype/Data-Processing-Tutorials/blob/master/Introduction/Types%20of%20Data%20Available.md)
 
-Stay Tuned!! Tutorial Number 1 is on the way :soon:
+Stay Tuned!! Tutorial Number 2 is on the way :soon:
